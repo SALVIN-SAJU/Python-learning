@@ -1,4 +1,4 @@
-name: str = "Salvin is is ready"
+name: str = "Salvin is ready"
 user_input: str = input("Enter a String to count : ")
 
 print(f"normal string= {name}")
